@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./precache-manifest.c8a191edb5adc6a4c95a6bafd4b11bbe.js"
+  "./precache-manifest.467174150d86d4ba64e23bcca7cf5725.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Alacasa"});
