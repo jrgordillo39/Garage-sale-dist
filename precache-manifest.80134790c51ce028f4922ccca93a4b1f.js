@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garage-sale-dist/Favicon_AlaCasa.svg"
   },
   {
-    "revision": "bd70cc0845d29bf7d9f7",
-    "url": "/Garage-sale-dist/css/app.6bb09ed8.css"
+    "revision": "66d4d16dfc01ccc3c2ee",
+    "url": "/Garage-sale-dist/css/app.bb7f4662.css"
   },
   {
-    "revision": "efbb144de698e527b511",
-    "url": "/Garage-sale-dist/css/chunk-vendors.d79c2d37.css"
+    "revision": "4d099be92f82025c22d5",
+    "url": "/Garage-sale-dist/css/chunk-vendors.6662b146.css"
   },
   {
     "revision": "5ad343b6e019a48f1c9666843da704db",
@@ -152,8 +152,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garage-sale-dist/img/5.4dbbda41.jpg"
   },
   {
-    "revision": "ea214c7ed1af19ce5b0d1db398588b8f",
-    "url": "/Garage-sale-dist/img/Background.ea214c7e.png"
+    "revision": "e5bf8c554b9b7a1b3b5c82e001fa7b2c",
+    "url": "/Garage-sale-dist/img/Fondo_Footer.e5bf8c55.png"
+  },
+  {
+    "revision": "0b409350bf5c19cba77928ce6c1f0496",
+    "url": "/Garage-sale-dist/img/Franja-vertical.0b409350.png"
+  },
+  {
+    "revision": "a174e1acc7afbb1710d0c9f29bc9cd57",
+    "url": "/Garage-sale-dist/img/Identidad_AlaCasa.a174e1ac.png"
   },
   {
     "revision": "a174e1acc7afbb1710d0c9f29bc9cd57",
@@ -180,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garage-sale-dist/img/casa-en-venta.3414a55c.png"
   },
   {
-    "revision": "86c099eadc914e8031a56ff2fce59c2e",
-    "url": "/Garage-sale-dist/img/client-icon.86c099ea.png"
+    "revision": "7a21789bc7ea5e320ff8d339a06b1d14",
+    "url": "/Garage-sale-dist/img/combo_mixto.7a21789b.png"
   },
   {
     "revision": "7a21789bc7ea5e320ff8d339a06b1d14",
@@ -193,7 +201,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0c48cd26e981daa6c28be2304d5ccd62",
+    "url": "/Garage-sale-dist/img/cubamax.0c48cd26.jpeg"
+  },
+  {
+    "revision": "0c48cd26e981daa6c28be2304d5ccd62",
     "url": "/Garage-sale-dist/img/cubamax.jpeg"
+  },
+  {
+    "revision": "96f81a8254d1b587e121e28a94e73e0a",
+    "url": "/Garage-sale-dist/img/cubamax_logo@2x.96f81a82.png"
+  },
+  {
+    "revision": "1b6c63ee856f08a9f11c9a8adcf468d6",
+    "url": "/Garage-sale-dist/img/cubamax_logo_ne@2x.1b6c63ee.png"
   },
   {
     "revision": "a086441df607e8d6587a3ef0c9a9ea0b",
@@ -216,6 +236,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garage-sale-dist/img/fontawesome-webfont.912ec66d.svg"
   },
   {
+    "revision": "71c806428f9d8c76f8dd491ee177382c",
+    "url": "/Garage-sale-dist/img/iconfinder_map-marker_299087.71c80642.png"
+  },
+  {
     "revision": "cdfccca604cb1f7c72048a550bff1dcc",
     "url": "/Garage-sale-dist/img/icons.rar"
   },
@@ -232,10 +256,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garage-sale-dist/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "81f9ad60cd255f12255c536efbfa9fdd",
-    "url": "/Garage-sale-dist/img/nails-icon.81f9ad60.jpg"
-  },
-  {
     "revision": "151b615ad33012eff3396ab0c5809ce9",
     "url": "/Garage-sale-dist/img/sunshine.151b615a.jpg"
   },
@@ -244,19 +264,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garage-sale-dist/img/sunshine.jpg"
   },
   {
-    "revision": "dc779768c17c4229e232281bf2308d9f",
+    "revision": "60a34790cfaf5a12bbb94a2d14d42a6d",
+    "url": "/Garage-sale-dist/img/venta1.60a34790.jpg"
+  },
+  {
+    "revision": "8bf2909dec60fd7949cb3013394b8dac",
+    "url": "/Garage-sale-dist/img/venta11.8bf2909d.png"
+  },
+  {
+    "revision": "af052dca43d58f47a8b4b9b3049c29d7",
+    "url": "/Garage-sale-dist/img/venta2.af052dca.jpg"
+  },
+  {
+    "revision": "424e606a0a0deaca094e248be9fd0d75",
+    "url": "/Garage-sale-dist/img/venta22.424e606a.png"
+  },
+  {
+    "revision": "6fac33ef7f56954e2551f0b8204d60b1",
+    "url": "/Garage-sale-dist/img/venta3.6fac33ef.jpg"
+  },
+  {
+    "revision": "7feb3515753f29187ce49648c10613f9",
+    "url": "/Garage-sale-dist/img/venta33.7feb3515.png"
+  },
+  {
+    "revision": "be05f278b2298319e1097d6b0a258bfa",
+    "url": "/Garage-sale-dist/img/venta4.be05f278.png"
+  },
+  {
+    "revision": "d0aa8d51edd9d00adebdfd36c62907b7",
+    "url": "/Garage-sale-dist/img/venta5.d0aa8d51.png"
+  },
+  {
+    "revision": "3a37af7921e00fd4242d9841addc9b15",
+    "url": "/Garage-sale-dist/img/venta6.3a37af79.png"
+  },
+  {
+    "revision": "b360d6f75f4eb7744ddb3e556c055714",
     "url": "/Garage-sale-dist/index.html"
   },
   {
-    "revision": "bd70cc0845d29bf7d9f7",
-    "url": "/Garage-sale-dist/js/app.9bef30e5.js"
+    "revision": "66d4d16dfc01ccc3c2ee",
+    "url": "/Garage-sale-dist/js/app.df67b0c0.js"
   },
   {
-    "revision": "efbb144de698e527b511",
-    "url": "/Garage-sale-dist/js/chunk-vendors.9afd34a3.js"
+    "revision": "4d099be92f82025c22d5",
+    "url": "/Garage-sale-dist/js/chunk-vendors.e33b618c.js"
   },
   {
-    "revision": "1609ef9563b48fe5d6826ef07b2f6f8d",
+    "revision": "52718d7fe209abc3964eacc5755ebc34",
     "url": "/Garage-sale-dist/manifest.json"
   },
   {
