@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./precache-manifest.80134790c51ce028f4922ccca93a4b1f.js"
+  "./precache-manifest.cd6beea5dc20fcd9243710b5b5a60533.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "Alacasa"});
+workbox.core.setCacheNameDetails({prefix: "MiVenta"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
